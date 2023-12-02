@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "essentialswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/OldFoolAgain/EssentialSwift.git",
+      "state" : {
+        "revision" : "6ceda38f56782c9c460e5980408f8dace8c79231",
+        "version" : "0.0.1"
+      }
+    }
+  ],
+  "version" : 2
+}
